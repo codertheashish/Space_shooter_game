@@ -53,10 +53,8 @@ Each shot increases the score, enemies disappear when hit, and the player surviv
 
 ---
 
-## 📦 Installation
-
-### 
-### 1️⃣ Install Pygame
+## 📦 Installation 
+### 1️⃣ Install Pygame and Python (if not installed)
 
 ```bash
 pip install pygame
