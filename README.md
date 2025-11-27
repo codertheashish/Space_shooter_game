@@ -55,6 +55,7 @@ Each shot increases the score, enemies disappear when hit, and the player surviv
 
 ## 📦 Installation
 
+### 
 ### 1️⃣ Install Pygame
 
 ```bash
@@ -64,7 +65,7 @@ pip install pygame
 ### 2️⃣ Clone the Repository
 
 ```bash
-https://github.com/codertheashish/Space_Shooter_Final.git
+https://github.com/codertheashish/Space_shooter_game.git
 ```
 
 ### 3️⃣ Run the Game
